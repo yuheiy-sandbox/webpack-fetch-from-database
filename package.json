@@ -1,0 +1,16 @@
+{
+  "name": "webpack-fetch-from-database",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "node .",
+    "build": "node build"
+  },
+  "author": "Yuhei Yasuda <yuhei.yasuda1003@gmail.com> (http://yhey.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "mongodb": "^2.1.2",
+    "webpack": "^1.12.9"
+  }
+}
